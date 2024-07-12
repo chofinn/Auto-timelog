@@ -37,3 +37,5 @@
 設定資料
 - user_id
     - timelog 的 user id (必填)
+    - id 可以在登入後進 F12 這邊看到
+    - ![image](./id.PNG)

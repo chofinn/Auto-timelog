@@ -1,0 +1,29 @@
+{
+  "routine": [
+      [["LabProject", 13, 17]],
+      [["LabProject", 11, 12], ["LabProject", 13, 17]],
+      [["LabProject", 10, 12], ["LabProject", 13, 17]],
+      [["LabProject", 10, 12], ["LabProject", 13, 16]],
+      [],
+      [],
+      []
+  ], 
+  "custom": [
+      [["st", 1, 2]],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+  ],
+  "comment": {
+    "activities": [
+        "you can put ur activities here",
+        "so you can just copy&paste them",
+    ]
+  },
+  "config": {
+    "user_id": ""
+  }
+}

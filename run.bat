@@ -1,0 +1,2 @@
+python timelog.py
+PAUSE
